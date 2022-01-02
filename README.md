@@ -10,4 +10,5 @@ Daniel put his work in the public domain, and I wanted to make sure it was store
 
 ## Footnotes
 \[1] [Documentation archived here](https://web.archive.org/web/20210217223102/https://wiki.zoneminder.com/Zmodopipe).
+
 \[2] [Forum post archived here](https://web.archive.org/web/20220102024656/https://forums.zoneminder.com/viewtopic.php?f=9&t=18137)
